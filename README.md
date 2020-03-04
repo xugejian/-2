@@ -1,2 +1,2 @@
 test git clone
-test local git
+test new local git
